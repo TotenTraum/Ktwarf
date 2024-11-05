@@ -37,4 +37,4 @@ jobs:
         uses: actions/upload-artifact@v4.4.3
         with:
           name: maven-web-application
-          path: /voice-server/build/libs/voice-server.jar
+          path: voice-server/build/libs/voice-server.jar
